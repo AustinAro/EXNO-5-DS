@@ -62,4 +62,4 @@ STEP 5:Include Necessary parameters in each functions.
 
 
 # Result:
- Thus the data visualization technique of matplotlib has been implemented
+ Thus the data visualization techniques of matplotlib has been implemented
